@@ -1,6 +1,6 @@
 # Student Information Center
 
-A full-stack web application for browsing and managing student data at **University of Mataram**. Built as a database course project (2025), it provides a searchable student directory with thesis title lookup, backed by a RESTful Flask API and a MySQL database.
+A full-stack web application for browsing and managing student data at **University of Mataram**. Built as a database course project, it provides a searchable student directory with thesis title lookup, backed by a RESTful Flask API and a MySQL database.
 
 ---
 
